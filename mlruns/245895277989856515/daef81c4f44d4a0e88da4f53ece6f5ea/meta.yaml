@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/muska/Downloads/IBM%20PROJECTS%20%29/mlruns/245895277989856515/daef81c4f44d4a0e88da4f53ece6f5ea/artifacts
+end_time: 1749114285212
+entry_point_name: ''
+experiment_id: '245895277989856515'
+lifecycle_stage: active
+run_id: daef81c4f44d4a0e88da4f53ece6f5ea
+run_name: GradientBoosting
+run_uuid: daef81c4f44d4a0e88da4f53ece6f5ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749114279754
+status: 3
+tags: []
+user_id: muska

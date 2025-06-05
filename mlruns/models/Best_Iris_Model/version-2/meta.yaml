@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749114285275
+current_stage: None
+description: null
+last_updated_timestamp: 1749114285275
+name: Best_Iris_Model
+run_id: ba7c7b5d61c44849ae4fa296a3e39b1f
+run_link: null
+source: file:///C:/Users/muska/Downloads/IBM%20PROJECTS%20%29/mlruns/245895277989856515/ba7c7b5d61c44849ae4fa296a3e39b1f/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/muska/Downloads/IBM%20PROJECTS%20%29/mlruns/245895277989856515/ba7c7b5d61c44849ae4fa296a3e39b1f/artifacts/model
+user_id: null
+version: 2

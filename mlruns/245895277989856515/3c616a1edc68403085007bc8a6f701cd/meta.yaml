@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/muska/Downloads/IBM%20PROJECTS%20%29/mlruns/245895277989856515/3c616a1edc68403085007bc8a6f701cd/artifacts
+end_time: 1749114366113
+entry_point_name: ''
+experiment_id: '245895277989856515'
+lifecycle_stage: active
+run_id: 3c616a1edc68403085007bc8a6f701cd
+run_name: RandomForest
+run_uuid: 3c616a1edc68403085007bc8a6f701cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749114359011
+status: 3
+tags: []
+user_id: muska
