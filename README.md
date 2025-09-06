@@ -9,18 +9,6 @@ The workflow covers dataset preparation, model training, experiment logging, and
 
 ----------------------------------------------------------------------------
 
-## 📂 Project Structure
-
-├── data/ # Folder for datasets
-│ └── iris_dataset.csv # Generated Iris dataset
-├── models/ # Folder for saved models
-├── save_dataset.py # Script to save dataset as CSV
-├── train.py # Script to train & log models with MLflow
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
-
-----------------------------------------------------------------------------
-
 ## ⚙️ Installation
 
 1. **Clone the repository**
