@@ -13,7 +13,7 @@ The workflow covers dataset preparation, model training, experiment logging, and
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ymuskan764/MLOPS-projects
+   git clone https://github.com/muskan764/MLOPS-projects
    cd MLOPS-projects-mlflow
 Set up a virtual environment and install dependencies
 python -m venv venv
