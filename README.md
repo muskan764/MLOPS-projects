@@ -21,13 +21,17 @@ source venv/bin/activate   # On Linux/Mac
 venv\Scripts\activate      # On Windows
 
 pip install -r requirements.txt
+----------------------------------------------------------------------------
+
 🚀 Usage
+
 1️⃣ Save the Dataset
 Generate and save the Iris dataset:
 python save_dataset.py
 👉 This creates data/iris_dataset.csv.
 
 2️⃣ Train Models & Track with MLflow
+
 Train and log models:
 python train.py
 ✔ Trains RandomForest & GradientBoosting classifiers
@@ -36,6 +40,7 @@ python train.py
 ✔ Registers the best model automatically
 
 📊 MLflow Tracking UI
+
 To visualize experiments:
 mlflow ui
 Then open in your browser: http://127.0.0.1:5000
@@ -49,8 +54,10 @@ Metrics (accuracy)
 Artifacts (saved .pkl models)
 
 Registered best model
+----------------------------------------------------------------------------
 
 🛠️ Requirements
+
 Python 3.9+
 
 Dependencies (in requirements.txt):
@@ -63,7 +70,10 @@ scikit-learn==1.4.2
 
 joblib==1.4.2
 
+----------------------------------------------------------------------------
+
 ✨ Features
+
 ✅ Automatic dataset saving (save_dataset.py)
 
 ✅ Training with multiple ML models
