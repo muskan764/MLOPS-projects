@@ -13,17 +13,18 @@ The workflow covers dataset preparation, model training, experiment logging, and
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/iris-mlflow.git
-   cd iris-mlflow
+   git clone https://github.com/ymuskan764/MLOPS-projects
+   cd MLOPS-projects-mlflow
 Set up a virtual environment and install dependencies
 python -m venv venv
 source venv/bin/activate   # On Linux/Mac
 venv\Scripts\activate      # On Windows
 
 pip install -r requirements.txt
+
 ----------------------------------------------------------------------------
 
-🚀 Usage
+## 🚀 Usage
 
 1️⃣ Save the Dataset
 Generate and save the Iris dataset:
@@ -39,7 +40,9 @@ python train.py
 ✔ Saves models in the models/ folder
 ✔ Registers the best model automatically
 
-📊 MLflow Tracking UI
+----------------------------------------------------------------------------
+
+## 📊 MLflow Tracking UI
 
 To visualize experiments:
 mlflow ui
@@ -56,7 +59,7 @@ Artifacts (saved .pkl models)
 Registered best model
 ----------------------------------------------------------------------------
 
-🛠️ Requirements
+## 🛠️ Requirements
 
 Python 3.9+
 
@@ -72,7 +75,7 @@ joblib==1.4.2
 
 ----------------------------------------------------------------------------
 
-✨ Features
+## ✨ Features
 
 ✅ Automatic dataset saving (save_dataset.py)
 
@@ -83,10 +86,3 @@ joblib==1.4.2
 ✅ Model artifacts stored locally (models/)
 
 ✅ Best model auto-registered in MLflow Model Registry
-
-📌 Next Steps
-🔧 Add hyperparameter tuning (GridSearchCV / Optuna)
-
-📈 Try more algorithms (e.g., XGBoost, SVM)
-
-🚀 Deploy registered model with MLflow Serving or FastAPI
